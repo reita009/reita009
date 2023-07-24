@@ -5,7 +5,7 @@
 
 
 
-[![myWebSite](https://img.shields.io/badge/MyWebSite-up-green.svg)](https://juliocv.netlify.app/)
+[![myWebSite](https://img.shields.io/badge/Portfolio-up-green.svg)](https://juliocv.netlify.app/)
 [![myYouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRc2VF0zwDMvIGFQCGwqSFQ)
 
 </div>
