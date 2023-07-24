@@ -10,7 +10,22 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reita009&layout=pie)](https://github.com/reita009?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reita009&layout=compact)](https://github.com/reita009?tab=repositories)
+
+<h3>AGORA</h3>
+
+-
+‍🚀 Atualmente estou me especializando em back-end com Node-JS e suas respectivas bibliotecas.
+-
+🚀 Criando projetos com React-js no Front e Node-Js no Back.
+-
+🚀 Consumindo conteúdos de leitura voltados ao desenvolvimento web.
+
+<h3>Contato:</h3>
+<div>
+   <a href="https://www.linkedin.com/in/julio-cesar-santana/"> <img alt="Clique me"style=" height: 60px" src="https://static.vecteezy.com/system/resources/previews/018/930/585/original/linkedin-logo-linkedin-icon-transparent-free-png.png" /></a>
+     <a href="mailto:julio.dev.santana@gmail.com"><img alt="Clique me" style=" height: 60px" src="https://logowik.com/content/uploads/images/608_email.jpg"  /><a/>
+</div>
 
 
 ### Tecnologias que eu uso no meu dia
