@@ -1,4 +1,4 @@
-### olá! Eu sou Julio Santana ✋🏾
+### Olá! Eu sou Julio Santana ✋🏾
 
 <div style={display:flex}>
 
